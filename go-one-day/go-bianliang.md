@@ -1,6 +1,6 @@
 - 思维导图
 
-  - ![](/Users/bytedance_tt/Desktop/my_dir/md-note/mac-vim/img/Go%E8%AF%AD%E8%A8%80%E4%B8%AD%E5%8F%98%E9%87%8F%E3%80%81%E5%B8%B8%E9%87%8F%E3%80%81%E4%BD%9C%E7%94%A8%E5%9F%9F.png)
+  - ![](./img/Go%E8%AF%AD%E8%A8%80%E4%B8%AD%E5%8F%98%E9%87%8F%E3%80%81%E5%B8%B8%E9%87%8F%E3%80%81%E4%BD%9C%E7%94%A8%E5%9F%9F.png)
 
 - 变量
 
